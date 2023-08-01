@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run google_scholar.py
+web: sh setup.sh && streamlit run main.py
